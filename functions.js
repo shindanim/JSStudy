@@ -55,4 +55,9 @@ const statusObject = {
 
 console.log(Quo.prototype.get_status.apply(statusObject));
 
+/* reference
+** https://meetup.toast.com/posts/118 [create function object]
+** https://meetup.toast.com/posts/123 [calling function]
+*/
+
 
